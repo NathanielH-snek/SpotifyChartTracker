@@ -1,0 +1,4 @@
+[logging]
+level = "DEBUG"
+[ui]
+api_url = "http://127.0.0.1:4200/api"
