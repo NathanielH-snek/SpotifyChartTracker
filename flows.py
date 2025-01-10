@@ -280,5 +280,4 @@ def exec_flow():
 
 
 if __name__ == "__main__":
-    #exec_flow.serve(cron="0 0 * * *")
-    exec_flow()
+    exec_flow.serve(cron="0 0 * * *")
